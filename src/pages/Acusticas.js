@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/components/pages/acusticas.css"
 
 const Acusticas = (props) => {
     return (

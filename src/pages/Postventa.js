@@ -1,9 +1,10 @@
 import React from "react";
+import "../styles/components/pages/postventa.css"
 
 const Postventa = (props) => {
     return (
         <main className="holder2">
-        <div class="acacc">
+        <div className="acacc">
             <img src="imagenes/plano1.jpg" alt="Collage de planos."></img>
             <h3>Beneficios extra de formar parte de nuestra familia de guitarras.</h3>
             <p>Además de adquirir una guitarra de calidad, hecha a mano por expertos luthiers y con los mejores materiales, Guitarras FlacoZeta

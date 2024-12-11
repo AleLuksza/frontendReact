@@ -1,4 +1,5 @@
 import React from "react";
+import "../styles/components/pages/accesorios.css"
 
 const Accesorios = (props) => {
     return (

@@ -11,6 +11,7 @@ import Acusticas from "./pages/Acusticas"
 import Electroacusticas from "./pages/Electroacusticas"
 import Accesorios from "./pages/Accesorios";
 import Postventa from "./pages/Postventa";
+import Contacto from "./pages/Contacto"
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
           <Route path="electroacusticas" element={<Electroacusticas />} />
           <Route path="accesorios" element={<Accesorios />} />
           <Route path="postventa" element={<Postventa />} />
+          <Route path="contacto" element={<Contacto />} />
         </Routes>
       </BrowserRouter>
       <Footer />
